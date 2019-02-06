@@ -42,8 +42,4 @@ table(x)
 as.data.frame(table(x))
 ```
 
-The `freq_out()` function returns a frequency table as a well-named `tbl_df`:
 
-```{r}
-freq_out(x)
-```
