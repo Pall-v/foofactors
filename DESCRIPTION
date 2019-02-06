@@ -18,3 +18,5 @@ Suggests:
 Imports: 
     dplyr
 VignetteBuilder: knitr
+URL: https://github.com/Pall-v/foofactors
+BugReports: https://github.com/Pall-v/foofactors/issues
