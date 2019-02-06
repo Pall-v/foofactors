@@ -9,3 +9,4 @@ test_that("fbind binds factor (or character)", {
   expect_identical(fbind(x, y), z)
   expect_identical(fbind(x_fact, y), z)
 })
+
